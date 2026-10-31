@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Test report
+    url: https://github.com/Exynos982x-OrangeFox/OrangeFox_Exynos982x/issues/new?template=test_report.yml
+    about: Tested a build on your device? Report it here, even if everything works.
+  - name: Bug report
+    url: https://github.com/Exynos982x-OrangeFox/OrangeFox_Exynos982x/issues/new?template=bug_report.yml
+    about: Something does not work in a build. Please attach your logs.
