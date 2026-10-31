@@ -33,6 +33,9 @@ Read the requirements first: these builds target ROMs built on the LineageOS dev
 | Galaxy Note10+ 5G | `d2x` | [android_device_samsung_d2x](https://github.com/Exynos982x-OrangeFox/android_device_samsung_d2x) | 🧪 Needs testing |
 | Galaxy F62 | `f62` | [android_device_samsung_f62](https://github.com/Exynos982x-OrangeFox/android_device_samsung_f62) | 🧪 Needs testing |
 
+Tested ROMs so far: **Evolution X 16.0** and **Project Infinity-X 3.12** on the Galaxy S10+
+([details](https://github.com/Exynos982x-OrangeFox/OrangeFox_Exynos982x#tested-roms)).
+
 All devices share the [common tree](https://github.com/Exynos982x-OrangeFox/android_device_samsung_exynos9820-common).
 Each device tree's README explains how to build it.
 
